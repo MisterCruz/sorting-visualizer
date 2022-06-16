@@ -1,0 +1,14 @@
+.array-container {
+  position: absolute;
+}
+
+.array-bar {
+  width: 2px;
+  background-color: turquoise;
+  display: inline-block;
+  margin: 0 1px;
+}
+
+button {
+  vertical-align: top;
+}
